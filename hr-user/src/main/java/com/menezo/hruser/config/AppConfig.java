@@ -1,4 +1,4 @@
-package commenezo.hruser.config;
+package com.menezo.hruser.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

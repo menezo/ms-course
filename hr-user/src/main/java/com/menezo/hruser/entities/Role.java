@@ -1,4 +1,4 @@
-package commenezo.hruser.entities;
+package com.menezo.hruser.entities;
 
 import java.io.Serializable;
 import java.util.Objects;

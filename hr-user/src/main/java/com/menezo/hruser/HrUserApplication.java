@@ -1,4 +1,4 @@
-package commenezo.hruser;
+package com.menezo.hruser;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
